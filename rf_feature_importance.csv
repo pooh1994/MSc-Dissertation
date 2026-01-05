@@ -1,0 +1,56 @@
+feature,importance
+"cat__output_composition_80% cotton, 20% synthetic",0.07666350589660814
+cat__feedstock_post-consumer cotton garments,0.07279956634893792
+cat__feedstock_post-consumer mixed textiles,0.06927224225548828
+cat__output_type_industrial wiping cloths,0.06635090376896426
+cat__output_composition_100% recycled polyester fibre,0.06538215785151288
+cat__output_composition_mixed natural and synthetic fibres,0.05756966325067268
+cat__feedstock_post-consumer polyester garments,0.05756564202880144
+cat__output_type_recycled fibre,0.046856263047620805
+cat__output_type_closed-loop recycled fibre,0.04289991405113405
+cat__feedstock_pre-consumer production offcuts,0.0347583693909198
+cat__feedstock_workwear and uniforms,0.03246244089310947
+cat__output_composition_blended fibre bales for downcycling,0.028762384893786682
+cat__output_composition_pet flakes suitable for spinning,0.028351266020417945
+cat__output_composition_high-grade cotton wiping rags,0.02517067377233419
+cat__main_activities_testing and piloting new recycling technologies,0.024834500210461484
+cat__main_activities_bring-bank collection and sorting,0.02249106299759846
+cat__core_function_reuse & resale,0.02122137673332755
+cat__feedstock_hotel and hospital linens,0.019971871973805927
+cat__output_type_polymer flakes,0.017518693494570234
+cat__main_activities_pre-processing for chemical recycling,0.017051180405645197
+cat__output_type_insulation material,0.017000322989676808
+cat__core_function_chemical recycling,0.016923565525375897
+cat__main_activities_export of reusable clothing,0.014453938207407802
+cat__output_type_reused clothing,0.011903103607368699
+cat__piloting_no,0.01180704647494882
+cat__core_function_industry association,0.011591980435677923
+cat__main_activities_sorting by fibre composition and colour,0.011489068546851229
+cat__core_function_mechanical recycling,0.011238878699201336
+cat__core_function_charity reuse,0.011071703356749691
+cat__piloting_yes,0.01021191456353999
+cat__main_activities_door-to-door textile collection,0.008259356263976735
+cat__core_function_sorting & grading,0.007860249537223724
+cat__core_function_collection & logistics,0.006275383406616545
+cat__country_france,0.005260696327941363
+cat__main_activities_shredding and fibre recovery,0.0040880603546775566
+cat__core_function_upcycling & design,0.003965691953361555
+cat__main_activities_retail of second-hand garments,0.0030824626296874604
+cat__output_type_open-loop recycled textiles,0.0018438696462762375
+cat__country_italy,0.001808762863711148
+cat__country_finland,0.001105117257552331
+cat__country_denmark,0.00040502610273835136
+cat__country_portugal,0.00040012196372136955
+cat__region_europe/uk,0.0
+cat__country_netherlands,0.0
+cat__country_belgium,0.0
+cat__country_germany,0.0
+cat__country_ireland,0.0
+cat__country_norway,0.0
+cat__region_europe,0.0
+cat__country_spain,0.0
+cat__region_uk,0.0
+cat__country_sweden,0.0
+cat__country_switzerland,0.0
+cat__country_united kingdom,0.0
+cat__country_austria,0.0
